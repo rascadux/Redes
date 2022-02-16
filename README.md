@@ -1,6 +1,6 @@
 # Redes
 
-Prácticas Redes (curso 2019/20)
+Prácticas Redes (curso 2021/22)
 
 ## Calificaciones
 
